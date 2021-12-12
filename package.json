@@ -32,7 +32,9 @@
     "eslint-plugin-react-hooks": "^4.3.0"
   },
   "devDependencies": {
-    "@hbauer/eslint-config": "^1.1.5",
     "@hbauer/prettier-config": "^1.1.0"
+  },
+  "dependencies": {
+    "@hbauer/eslint-config": "^1.1.5"
   }
 }

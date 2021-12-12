@@ -1,6 +1,6 @@
 {
   "name": "@hbauer/eslint-config-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "With no excess fat; thin, react-optimized",
   "main": "index.js",
   "repository": {

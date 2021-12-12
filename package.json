@@ -1,0 +1,38 @@
+{
+  "name": "@hbauer/eslint-config-react",
+  "version": "1.0.0--alpha.0",
+  "description": "With no excess fat; thin, react-optimized",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handlebauer/eslint-config-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Donald Geddes <handlebauer@protonmail.com>",
+  "publishConfig": {
+    "access": "public"
+  },
+  "eslintConfig": {
+    "extends": [
+      "."
+    ]
+  },
+  "license": "The Unlicense",
+  "bugs": {
+    "url": "https://github.com/handlebauer/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/handlebauer/eslint-config-react#readme",
+  "prettier": "@hbauer/prettier-config/react",
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-plugin-react-hooks": "^4.3.0"
+  },
+  "devDependencies": {
+    "@hbauer/eslint-config": "^1.1.5",
+    "@hbauer/prettier-config": "^1.1.0"
+  }
+}
